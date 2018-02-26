@@ -4,5 +4,8 @@ To run :
 1. create a folder and put the server folder in this;
 2. in the server folder run npm install
 3. create a folder called client and using angular cli generate a new angular project with ng new appName
-4 replace the .angular-cli.json created by the cli with the one in the client folder;
-5. replace the 
+4. replace the .angular-cli.json created by the cli with the one in the client folder;
+5. replace the app folder with my app folder.
+6. run ng build in the folder client
+7. run npm start in the server folder
+
